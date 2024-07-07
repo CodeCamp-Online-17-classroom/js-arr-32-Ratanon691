@@ -10,3 +10,4 @@ const array = [
 ];
 // result: ["apple", "banana", "watermelon"]
 ```
+Rattanon Tunwittaya
